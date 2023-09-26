@@ -52,6 +52,7 @@ int main() {
             break;
         default:
             std::cout << "Invalid month" << std::endl;
+            break;
     }
 
     return 0;
