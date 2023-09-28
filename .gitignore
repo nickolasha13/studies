@@ -1,5 +1,7 @@
 .obsidian
 .vscode
+.idea
+
 **/*.exe
 
 ### IntelliJ IDEA ###
